@@ -1,0 +1,20 @@
+{
+    "01": {
+        "Codigo": "01",
+        "nombreProducto": "mercedez",
+        "nombreProvedor": "Clase e",
+        "a\u00f1o": "2024"
+    },
+    "02": {
+        "Codigo": "02",
+        "nombreProducto": "marzda",
+        "nombreProvedor": "mazda 4",
+        "a\u00f1o": "2023"
+    },
+    "03": {
+        "Codigo": "03",
+        "nombreProducto": "renaul",
+        "nombreProvedor": "logan",
+        "a\u00f1o": "2020"
+    }
+}
